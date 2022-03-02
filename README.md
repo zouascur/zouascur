@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 * Ramda
 * Rxjs
 * Bootstrap
-* HTML5 / CSS3
+* HTML5/CSS3
 * Командная разработка agile/jira/confluence/bitbucket
 
 ### Контакты
